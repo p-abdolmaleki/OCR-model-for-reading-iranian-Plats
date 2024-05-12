@@ -1,0 +1,1 @@
+# OCR-model-for-reading-iranian_Plats
